@@ -1,0 +1,23 @@
+{
+  "name": "riot-games-technical-exercise",
+  "version": "1.0.0",
+  "description": "Static JSON Example API responses for Riot Games Front-End Technical Exercise",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pixeldandy/riot-games-technical-exercise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pixeldandy/riot-games-technical-exercise/issues"
+  },
+  "homepage": "https://github.com/pixeldandy/riot-games-technical-exercise#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
