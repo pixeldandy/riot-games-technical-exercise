@@ -1,0 +1,42 @@
+{
+	"game": 2,
+	"teams": [{
+		"isVictory": true,
+		"participants": [{
+			"rank": 1,
+			"summonerId": 9235720,
+			"summonerName": "Lopes VoHiYo",
+			"teamId": 200,
+			"championId": 202,
+			"championName": "Jhin",
+			"championMastery": 1
+		}, {
+			"rank": 2,
+			"summonerId": 38398777,
+			"summonerName": "flachgelegt",
+			"teamId": 100,
+			"championId": 157,
+			"championName": "Yasuo",
+			"championMastery": 6
+		}]
+	}, {
+		"isVictory": false,
+		"participants": [{
+			"rank": 1,
+			"summonerId": 9235720,
+			"summonerName": "Lopes VoHiYo",
+			"teamId": 200,
+			"championId": 202,
+			"championName": "Jhin",
+			"championMastery": 1
+		}, {
+			"rank": 2,
+			"summonerId": 38398777,
+			"summonerName": "flachgelegt",
+			"teamId": 100,
+			"championId": 157,
+			"championName": "Yasuo",
+			"championMastery": 6
+		}]
+	}]
+}

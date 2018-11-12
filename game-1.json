@@ -1,0 +1,22 @@
+{
+	"game": 1,
+	"teams": [{
+		"isWinner": true,
+		"participants": [{
+			"rank": 1,
+			"summonerName": "Lopes VoHiYo",
+		}, {
+			"rank": 2,
+			"summonerName": "flachgelegt",
+		}]
+	}, {
+		"isWinner": false,
+		"participants": [{
+			"rank": 1,
+			"summonerName": "Lopes VoHiYo",
+		}, {
+			"rank": 2,
+			"summonerName": "flachgelegt",
+		}]
+	}]
+}
