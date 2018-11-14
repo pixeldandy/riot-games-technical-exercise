@@ -28,4 +28,5 @@ You will then be able to browse the server at http://localhost:3000
 ### Endpoints
 
 _/game/2_ : Returns the JSON data from the file `game-2.json`
+
 _/* (any other endpoint)_ : Returns the JSON data from the file `game-1.json`

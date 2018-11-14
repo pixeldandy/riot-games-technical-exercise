@@ -1,22 +1,89 @@
 {
 	"game": 1,
-	"teams": [{
-		"isWinner": true,
-		"participants": [{
-			"rank": 1,
-			"summonerName": "Lopes VoHiYo",
-		}, {
-			"rank": 2,
-			"summonerName": "flachgelegt",
-		}]
-	}, {
-		"isWinner": false,
-		"participants": [{
-			"rank": 1,
-			"summonerName": "Lopes VoHiYo",
-		}, {
-			"rank": 2,
-			"summonerName": "flachgelegt",
-		}]
-	}]
+	"teams": [
+		{
+			"isWinner": true,
+			"shortName": "TAC",
+			"name": "TACO MEAT",
+			"participants": [
+				{
+					"rank": 1,
+					"name": "Eric Ruiz",
+					"stats": "7 / 7 / 27",
+					"pointsEarned": 599,
+					"totalScore": 12580
+				},
+				{
+					"rank": 2,
+					"name": "Tyler Briggs",
+					"stats": "7 / 7 / 27",
+					"pointsEarned": 636,
+					"totalScore": 11251
+				},
+				{
+					"rank": 3,
+					"name": "Lydia Reyes",
+					"stats": "7 / 7 / 27",
+					"pointsEarned": 777,
+					"totalScore": 15849
+				},
+				{
+					"rank": 4,
+					"name": "Eliza Holloway",
+					"stats": "7 / 7 / 27",
+					"pointsEarned": 971,
+					"totalScore": 10286
+				},
+				{
+					"rank": 5,
+					"name": "Elmer Houston",
+					"stats": "7 / 7 / 27",
+					"pointsEarned": 727,
+					"totalScore": 13721
+				}
+			]
+		},
+		{
+			"isWinner": false,
+			"shortName": "DD",
+			"name": "DIffERENT DIMENSION",
+			"participants": [
+				{
+					"rank": 1,
+					"name": "Sue Wise",
+					"stats": "7 / 7 / 27",
+					"pointsEarned": 599,
+					"totalScore": 12580
+				},
+				{
+					"rank": 2,
+					"name": "Celia Hudson",
+					"stats": "7 / 7 / 27",
+					"pointsEarned": 636,
+					"totalScore": 11251
+				},
+				{
+					"rank": 3,
+					"name": "Francisco McCoy",
+					"stats": "7 / 7 / 27",
+					"pointsEarned": 777,
+					"totalScore": 15849
+				},
+				{
+					"rank": 4,
+					"name": "Isabella Myers",
+					"stats": "7 / 7 / 27",
+					"pointsEarned": 971,
+					"totalScore": 10286
+				},
+				{
+					"rank": 5,
+					"name": "Russell Dixon",
+					"stats": "7 / 7 / 27",
+					"pointsEarned": 727,
+					"totalScore": 13721
+				}
+			]
+		}
+	]
 }
